@@ -6,7 +6,7 @@
 
 
 ### Things you'll need to know before you start this
-* [What is a Firewall?](https://github.com/mooroon/cookbooks/blob/main/Firewalls)
+* [What is a Firewall?](https://github.com/mooroon/cookbooks/blob/main/Firewalls.md)
 
 ## Instructions
 
