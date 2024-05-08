@@ -7,7 +7,7 @@ This recipe will help configure a  network that includes a firewall
 At the end of this recipe, you will know how to:
 - Answer: What is a firewall?
 - Answer: How do firewalls work?
-- Build the following network including a firewall
+- Build the following network and configure a firewall
 
 *insert *  
 
@@ -33,9 +33,15 @@ ASA is a type of firewall appliance developed by Cisco Systems. It combines the 
 Download the project from here: 
 
 1. Create the following network
-2. assign ips
-3. do firewall
-4. ping computer/web browser
+![step one](https://drive.google.com/file/d/1zPnn5o-un3SZo936pThViXUNscErqccg/view?usp=drive_link)
+
+2. Configure all ip addresses and subnet masks of pcs and servers
+
+3. go to ipv4 firewall on server's desktop
+
+4. ping computer 
+
+5. web browser
 
 ## Practice Questions
 
